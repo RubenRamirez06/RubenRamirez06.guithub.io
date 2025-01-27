@@ -1,26 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-    <title>Lenguajes de Programación</title>
-    <link>https://www.paraninfo.es/rss</link>
-    <description>Canal sobre Programación</description>
+    <title>vinicius</title>
+    <link>https://www.marca.com/futbol/real-madrid/2025/01/27/fallas-mofan-vinicus-cagallo-d-or.html</link>
+    <description>balon de hora</description>
     <item>
-        <title>Python</title>
-        <link>https://www.paraninfo.es/rss/python.html</link>
-        <description>El lenguaje Python</description>
+        <title>aston martin</title>
+        <link>https://www.marca.com/motor/formula1/2025/01/27/aston-martin-recta-final-nuevo-tunel-viento.html</link>
+        <description>tunel de viento</description>
         <author>Fernando Paniagua</author>
     </item>
     <item>
-        <title>Java</title>
-        <link>https://www.paraninfo.es/rss/java.html</link>
+        <title>united</title>
+        <link>https://www.marca.com/futbol/premier-league/2025/01/26/ruben-amorim-sentencia-rashford-pudiera-convocaria-entrenador-porteros.html</link>
         <description>El lenguaje Java</description>
-        <author>Fernando Paniagua</author>
+        <author>rasford no comvocado</author>
     </item>
-    <item>
-        <title>PHP</title>
-        <link>https://www.paraninfo.es/rss/php.html</link>
-        <description>El lenguaje PHP</description>
-        <author>Fernando Paniagua</author>
-    </item>
+
 </channel>
 </rss>
