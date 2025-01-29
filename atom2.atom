@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="https://www.marca.com/">
+  <title>MARCA</title>
+  <link href="https://www.marca.com/"/>
+  <updated>2025-01-29</updated>
+  <author>
+    <name>Fernando Paniagua</name>
+  </author>
+  <id>https://www.pelistibu.it/feed/</id>
+  <entry>
+    <title>viniciu</title>
+    <link href="https://www.marca.com/futbol/real-madrid/2025/01/27/fallas-mofan-vinicus-cagallo-d-or.html"/>
+    <id>https://www.marca.com/futbol/real-madrid/2025/01/27/fallas-mofan-vinicus-cagallo-d-or.html</id>
+    <updated>22025-01-29</updated>
+    <summary>balon de hora</summary>
+  </entry>
+  <entry>
+    <title>aston martin</title>
+    <link href="https://www.marca.com/motor/formula1/2025/01/27/aston-martin-recta-final-nuevo-tunel-viento.html"/>
+    <id>https://www.marca.com/motor/formula1/2025/01/27/aston-martin-recta-final-nuevo-tunel-viento.html</id>
+    <updated>2025-01-29</updated>
+    <summary>tunel de viento</summary>
+  </entry>
+  <entry>
+    <title>united</title>
+    <link href="https://www.marca.com/futbol/premier-league/2025/01/26/ruben-amorim-sentencia-rashford-pudiera-convocaria-entrenador-porteros.html"/>
+    <id>https://www.marca.com/futbol/premier-league/2025/01/26/ruben-amorim-sentencia-rashford-pudiera-convocaria-entrenador-porteros.html</id>
+    <updated>2025-01-29</updated>
+    <summary>rasford no comvocado</summary>
+  </entry>
+</feed>
