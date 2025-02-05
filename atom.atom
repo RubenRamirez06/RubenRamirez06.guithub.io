@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="https://elpais.com/">
+  <title>MARCA</title>
+  <link href="https://elpais.com/"/>
+  <updated>2025-01-29</updated>
+  <author>
+    <name>Rubén Ramírez</name>
+  </author>
+  <id>https://elpais.com/</id>
+  <entry>
+    <title>Trump afirma por sorpresa que EE UU tomara el control de Gaza</title>
+    <link href="https://elpais.com/internacional/2025-02-04/trump-preve-que-gaza-permanecera-inhabitable-entre-10-y-15-anos.html"/>
+    <id>https://elpais.com/internacional/2025-02-04/trump-preve-que-gaza-permanecera-inhabitable-entre-10-y-15-anos.html</id>
+    <updated>2025-02-05</updated>
+    <summary>El presidente señala que su país “poseerá” la Franja y la demolerá para reconstruirla de forma que sea la “Riviera de Oriente Próximo”, en la que vivirá “gente del mundo”, tras desplazar a sus habitantes de forma permanente</summary>
+  </entry>
+  <entry>
+    <title>TEl alto el fuego en Gaza, en directo | La ONU responde a Trump que “toda deportación está estrictamente prohibida”</title>
+    <link href="https://elpais.com/internacional/2025-02-05/el-alto-el-fuego-en-gaza-en-directo.html"/>
+    <id>https://elpais.com/internacional/2025-02-05/el-alto-el-fuego-en-gaza-en-directo.html</id>
+    <updated>2025-02-05</updated>
+    <summary>Hamás tacha de “ridícula” y “absurda” la propuesta de EE UU y cree que podría “incendiar” Oriente Próximo | La comunidad internacional se opone a la expulsión de la población de la Franja porque vulnera el derecho internacional | España rechaza la propuesta de convertir el enclave en la ‘Riviera de Oriente Próximo’: “Gaza para los gazatíes”</summary>
+  </entry>
+  <entry>
+    <title>El Gobierno se aferra al respaldo social de la primera reducción de jornada en 40 años para presionar a PP y Junts</title>
+    <link href="https://elpais.com/espana/2025-02-05/el-gobierno-se-aferra-al-respaldo-social-de-la-primera-reduccion-de-jornada-en-40-anos-para-presionar-a-pp-y-junts.html"/>
+    <id>https://www.marca.com/futbol/premier-league/2025/01/26/ruben-amorim-sentencia-rashford-pudiera-convocaria-entrenador-porteros.html</id>
+    <updated>2025-02-05</updated>
+    <summary>La vicepresidenta Díaz recuerda que Feijóo se arrepintió del no en la reforma laboral mientras el Ejecutivo confía en ofrecer mayores compensaciones a las pymes como medida para atraer a Junts</summary>
+  </entry>
+  <entry>
+    <title>El hermano de Jennifer Hermoso, ante el juez del ‘caso Rubiales’: “Vilda me soltó que tuviéramos en cuenta las consecuencias”</title>
+    <link href="https://elpais.com/deportes/futbol/2025-02-05/las-declaraciones-por-el-juicio-del-caso-rubiales.html"/>
+    <id>https://elpais.com/deportes/futbol/2025-02-05/las-declaraciones-por-el-juicio-del-caso-rubiales.html</id>
+    <updated>2025-02-05</updated>
+    <summary>La defensa del expresidente de la federación renuncia a que sus dos hijas declaren como testigos en la vista oral por el beso no consentido y las presuntas coacciones a la futbolista</summary>
+  </entry>
+</feed>
